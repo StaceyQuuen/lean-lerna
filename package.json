@@ -1,0 +1,10 @@
+{
+  "name": "stacey-lean-lerna",
+  "private": true,
+  "scripts": {
+    "publish": "lerna publish"
+  },
+  "devDependencies": {
+    "lerna": "^6.6.2"
+  }
+}

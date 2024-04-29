@@ -1,0 +1,24 @@
+{
+  "name": "stacey-commitlint-config",
+  "version": "0.0.3",
+  "main": "index.js",
+  "description": "stacey Git规范",
+  "keywords": [
+    "encode",
+    "commit",
+    "lint"
+  ],
+  "author": "stacey",
+  "homepage": "https://github.com/StaceyQuuen/lean-lerna#readme",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/StaceyQuuen/lean-lerna.git"
+  },
+  "bugs": {
+    "url": "https://github.com/StaceyQuuen/lean-lerna/issues"
+  },
+  "dependencies": {
+    "conventional-changelog-conventionalcommits": "^4.5.0"
+  }
+}
